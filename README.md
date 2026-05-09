@@ -1,4 +1,4 @@
-# Exercices-C
+# Exercices C ET Python
 
 Exercices de cours en langage C
 
